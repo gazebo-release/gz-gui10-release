@@ -1,18 +1,6 @@
-gz-gui9 (9.0.0-1~jammy) jammy; urgency=medium
-
-  * gz-gui9 9.0.0-1 release
-
- -- Ian Chen <ichen@openrobotics.org>  Thu, 26 Sep 2024 23:37:53 +0000
-
-gz-gui9 (9.0.0~pre1-1~jammy) jammy; urgency=medium
-
-  * gz-gui9 9.0.0~pre1-1 release
-
- -- Ian Chen <ichen@openrobotics.org>  Thu, 29 Aug 2024 02:17:10 +0000
-
-gz-gui9 (8.999.999-1~jammy) jammy; urgency=medium
+gz-gui10 (9.999.999-1~jammy) jammy; urgency=medium
 
   * Stub to be removed after first entry
 
- -- Ian Chen <ichen@openrobotics.org>  Thu, 12 Oct 2023 18:09:38 +0000
+ -- Carlos Aguero <caguero@openrobotics.org>  Tue, 08 Oct 2024 20:53:35 +0200
 

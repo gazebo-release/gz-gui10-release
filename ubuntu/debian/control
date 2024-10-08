@@ -1,4 +1,4 @@
-Source: gz-gui9
+Source: gz-gui10
 Maintainer: Jose Luis Rivero <jrivero@osrfoundation.org>
 Section: science
 Priority: optional
@@ -36,11 +36,11 @@ Build-Depends: cmake,
                qtdeclarative5-dev,
                qtquickcontrols2-5-dev
 Vcs-Browser: https://github.com/gazebosim/gz-gui
-Vcs-Git: https://github.com/gazebo-release/gz-gui9-release
+Vcs-Git: https://github.com/gazebo-release/gz-gui10-release
 Standards-Version: 4.5.1
 Homepage: http://gazebosim.org/
 
-Package: libgz-gui9
+Package: libgz-gui10
 Architecture: any
 Section: libs
 Pre-Depends: ${misc:Pre-Depends}
@@ -52,13 +52,13 @@ Description: Gazebo Gui classes and functions for robot apps - Shared library
  .
  Package contains the main libraries
 
-Package: libgz-gui9-dev
+Package: libgz-gui10-dev
 Architecture: any
 Section: libdevel
 Depends: libgz-cmake4-dev,
          libgz-common6-events-dev,
          libgz-common6-profiler-dev,
-         libgz-gui9 (= ${binary:Version}),
+         libgz-gui10 (= ${binary:Version}),
          libgz-math8-dev,
          libgz-msgs11-dev,
          libgz-plugin3-dev,
