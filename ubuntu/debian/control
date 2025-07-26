@@ -102,3 +102,11 @@ Description: Gazebo Gui classes and functions for robot apps - Development files
  designed to rapidly develop robot applications.
  .
  Package for development libraries and headers.
+
+Package: gz-jetty-gui
+Depends: libgz-gui10-dev (= ${binary:Version}), ${misc:Depends}
+Architecture: all
+Priority: optional
+Section: metapackages
+Description: alias package
+ Provides a package for Jetty without exposing the version number.
