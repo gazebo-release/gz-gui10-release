@@ -110,3 +110,12 @@ Priority: optional
 Section: metapackages
 Description: alias package
  Provides a package for Jetty without exposing the version number.
+
+Package: libgz-jetty-gui-dev
+Depends: libgz-gui10-dev (= ${binary:Version}), ${misc:Depends}
+Architecture: all
+Priority: optional
+Section: metapackages
+Description: alias package
+ Provides a package for Jetty without exposing the version number.
+
