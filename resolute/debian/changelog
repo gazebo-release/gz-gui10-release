@@ -1,0 +1,23 @@
+gz-gui10 (10.1.0-1~resolute) resolute; urgency=medium
+
+  * gz-gui10 10.1.0-1 release
+
+ -- Addisu Z. Taddese <addisuzt@intrinsic.ai>  Thu, 20 Aug 2026 20:46:28 +0000
+
+gz-gui10 (10.0.0-1~resolute) resolute; urgency=medium
+
+  * gz-gui10 10.0.0-1 release
+
+ -- Carlos Aguero <caguero@osrfoundation.org>  Mon, 29 Sep 2025 15:43:56 +0200
+
+gz-gui10 (10.0.0~pre2-1~resolute) resolute; urgency=medium
+
+  * gz-gui10 10.0.0~pre2-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Sat, 06 Sep 2025 13:24:38 -0500
+
+gz-gui10 (10.0.0~pre1-1~resolute) resolute; urgency=medium
+
+  * gz-gui10 10.0.0~pre1-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Tue, 26 Aug 2025 00:32:51 -0500
